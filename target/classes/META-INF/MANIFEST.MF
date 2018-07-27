@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: kafkaconnectorEx
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: cheli
+Specification-Title: kafkaconnectorEx
+Implementation-Vendor-Id: com.kafkaconnector
+Build-Jdk: 1.8.0_121
+Specification-Version: 0.0.1-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+
